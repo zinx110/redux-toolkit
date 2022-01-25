@@ -32,3 +32,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+
+# practice stuffs
+/components/Three
